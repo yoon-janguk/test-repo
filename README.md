@@ -1,7 +1,7 @@
 # test-repo
 this is first assignment
 
-# 오픈한끼
+# 오픈한끼 관련 리액트 학습
 
 # 리액트 학습 프로젝트
 
